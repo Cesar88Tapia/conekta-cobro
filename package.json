@@ -1,0 +1,29 @@
+{
+  "name": "conekta-cobro",
+  "version": "1.0.0",
+  "description": "Conekta challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesar88Tapia/conekta-cobro.git"
+  },
+  "author": "Cesar Tapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cesar88Tapia/conekta-cobro/issues"
+  },
+  "homepage": "https://github.com/Cesar88Tapia/conekta-cobro#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
