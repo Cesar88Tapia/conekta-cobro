@@ -26,8 +26,8 @@
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "conekta": "^3.5.1",
-    "jquery": "^3.3.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   }

@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightsalmon; 
+  color: gray;
+}
+
+.oxxo {
+  border-radius: 25px;
+  height: 150px;
+}
+
+.tarjeta {
+  border-radius: 25px;
+  height: 150px;
+  width: 80px;
+  position: relative;
+  left: 500px;
+}
+
+.spei {
+  border-radius: 25px;
+  height: 150px;
+  width: 80px;
+  position: relative;
+  left: 1000px;
+}
